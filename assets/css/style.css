@@ -1,0 +1,34 @@
+body {
+    font-family: "Arial, Helvetica neue, Helvetica, sans-serif";
+}
+
+.container {
+    background: #ffffff;
+    padding: 20px;
+    border-bottom-width: 10px;
+    border-bottom-color: grey;  
+}
+
+.ForHeader {
+    background: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background: #4aaaa5;
+    float: left;
+    padding:
+}
+
+p1, p2, p3 {
+    float: left;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-size: 25px;
+}
+
+img {
+    float: left;
+}
